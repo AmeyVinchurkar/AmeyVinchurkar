@@ -4,7 +4,7 @@
 
 # 👨‍💼 About Me
 
-BI Technical Developer with 4+ years of IT experience, specializing in Data Analytics and Business Intelligence, with expertise in Power BI, SQL, and successful BI project delivery at Gallagher Service Center.
+BI Technical Developer with **4+ years** of IT experience, specializing in **Data Analytics** and **Business Intelligence**, with expertise in **Power BI**, **SQL**, and successful BI project delivery at Gallagher Service Center.
 
 ---
 
