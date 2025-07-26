@@ -38,6 +38,7 @@ BI Technical Developer with **4+ years** of IT experience, specializing in **Dat
 - ### Project Management : 
 ![Agile](https://img.shields.io/badge/Agile_Frameworks-FF8C00?style=for-the-badge)  ![Scrum](https://img.shields.io/badge/Scrum-008FC7?style=for-the-badge)
 
+---
 
 # 📜 Certifications
 
