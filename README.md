@@ -46,9 +46,9 @@ BI Technical Developer with **4+ years** of IT experience, specializing in **Dat
 ![AZ-900 Microsoft Certified](https://img.shields.io/badge/AZ--900_Microsoft_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![AI Gen Landscape](https://img.shields.io/badge/AI_Gen_Landscape_Infosys_Certified-00B5E2?style=for-the-badge&logo=infosys&logoColor=white)
 
-<h3 align="left">Let's Connect on:</h3>
+<h2 align="left">Let's Connect on:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/Amey Vinchurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amey Vinchurkar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amey-v-692700114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amey Vinchurkar" height="30" width="40" /></a>
 </p>
 
 - 📫 Reach Me : **ameyvinchurkar@gmail.com**  
