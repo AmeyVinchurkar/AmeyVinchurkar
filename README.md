@@ -82,7 +82,7 @@ Technologies: Power BI | SQL | DAX | Power Query
 
 # 💼 Professional Experience - 
 
-Senior Consultant – Delivery Excellence
+Senior Consultant – Data Science & Analytics 
 LTIMindtree
 
 Focused on enterprise analytics, Microsoft Fabric, Power BI, data engineering, automation and scalable reporting solutions.
