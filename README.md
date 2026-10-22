@@ -88,7 +88,9 @@ LTIMindtree
 Focused on enterprise analytics, Microsoft Fabric, Power BI, data engineering, automation and scalable reporting solutions.
 
 Previous Experience
+
 Gallagher
+
 Infosys BPM
 
 
