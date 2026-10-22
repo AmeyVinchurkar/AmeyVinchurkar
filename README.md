@@ -14,7 +14,7 @@ My work focuses on transforming enterprise data into scalable data platforms, au
 
 Data Engineering -
 
-Microsoft Fabric | Fabric Lakehouse | Data Factory |ETL / ELT | Medallion Architecture | Data Pipelines | Data Modeling | PySpark | SQL | Python 
+Microsoft Fabric | Fabric Lakehouse | Data Factory | ETL / ELT | Medallion Architecture | Data Pipelines | Data Modeling | PySpark | SQL | Python 
 
 Analytics & BI - 
 
