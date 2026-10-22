@@ -39,7 +39,7 @@ End-to-end Microsoft Fabric implementation demonstrating data ingestion, Lakehou
 
 Technologies: Microsoft Fabric | Data Factory | Lakehouse | PySpark | SQL | Power BI
 
-🔗 Project Repository: Coming Soon
+🔗 Project Repository: https://github.com/AmeyVinchurkar/H2R-Unified-fabric-analytics-platform
 
 
 📊 O2O Analytics Dashboard -
